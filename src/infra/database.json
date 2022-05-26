@@ -1,0 +1,13 @@
+[
+  {
+    "day": "all",
+    "id": "e3bf69f9-482a-4e5c-a26e-6e823300d318",
+    "intervals": [
+      {
+        "start": "10:20",
+        "end": "10:50"
+      }
+    ],
+    "type": "daily"
+  }
+]
